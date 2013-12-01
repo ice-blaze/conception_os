@@ -1,1 +1,1 @@
-file 1
+conflict file 1
