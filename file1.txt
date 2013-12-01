@@ -1,3 +1,2 @@
-<<<<<<< HEAD
 file1
 conflict
